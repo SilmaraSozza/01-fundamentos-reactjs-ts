@@ -1,13 +1,5 @@
-import styles from './Header.module.css'
-
-import ignateLogo  from '../assets/ignate-Logo.svg';
+import styles from "./Header.module.css";
 
 export function Header() {
-    return (
-        <header className={styles.header}>
-            <img src={ignateLogo} alt="Logotipo do Ignate" />
-            
-        </header>
-            
-    );
+  return <header className={styles.header}></header>;
 }
