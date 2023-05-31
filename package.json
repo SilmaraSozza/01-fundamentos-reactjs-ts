@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": " https://silmarasozza.github.io/Feed-Ignite/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -28,3 +29,4 @@
     "vite": "^4.3.9"
   }
 }
+
